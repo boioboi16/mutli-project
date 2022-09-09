@@ -1,0 +1,38 @@
+.inputs{
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+
+}
+.multi-form{
+  height: 30vh;
+}
+.inputs input{
+  height: 30px;
+  font-size: 20px;
+
+}
+.submit-btn{
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  border: none;
+  background-color: green;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+.output{
+  font-size: 20px;
+  color: green;
+}
+.output h3{
+  color: black;
+}
+.input-entry{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
